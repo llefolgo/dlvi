@@ -1,0 +1,3 @@
+from .structured_gmm import GMMVariationalParameters
+from .structured_mvn import GaussianVariationalParameters
+from .diagonal_mvn import DiagonalGaussianVariationalParameters
